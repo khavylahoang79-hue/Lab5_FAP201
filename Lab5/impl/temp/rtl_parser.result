@@ -1,0 +1,20 @@
+[
+ {
+  "InstFile" : "D:/Ki4/FAP/LAB/Lab5/src/Lab5tb.vhd",
+  "InstLine" : 8,
+  "InstName" : "Lab5_TB",
+  "ModuleFile" : "D:/Ki4/FAP/LAB/Lab5/src/Lab5tb.vhd",
+  "ModuleLine" : 8,
+  "ModuleName" : "Lab5_TB",
+  "SubInsts" : [
+   {
+    "InstFile" : "D:/Ki4/FAP/LAB/Lab5/src/Lab5tb.vhd",
+    "InstLine" : 18,
+    "InstName" : "UUT",
+    "ModuleFile" : "D:/Ki4/FAP/LAB/Lab5/src/Lab5.vhd",
+    "ModuleLine" : 8,
+    "ModuleName" : "Lab5"
+   }
+  ]
+ }
+]
